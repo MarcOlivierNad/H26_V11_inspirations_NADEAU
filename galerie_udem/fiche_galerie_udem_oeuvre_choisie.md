@@ -50,4 +50,6 @@ Haut-parleurs : Un son de basse fréquence est diffusé en dessous du dossier de
 
 Projecteur : Permet la présentation de la diapositive que constitue Techno-compost 01
 
+![Photo](image/galerie_udem_boitier_thinkcentre.jpg)
+
 
