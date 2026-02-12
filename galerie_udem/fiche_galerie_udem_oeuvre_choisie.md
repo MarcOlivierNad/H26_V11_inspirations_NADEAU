@@ -6,7 +6,7 @@
 
 Devenirs partagés. Pratiques de l’IA
 
-![Porte d'entrée de la galerie de l'Université de Montréal](/image/galerie_udem_nom_exposition.jpg)
+![Affiche portant le titre ](image/galerie_udem_nom_exposition.jpg)
 
 
 ## Lieu de mise en exposition : 
