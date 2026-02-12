@@ -1,8 +1,12 @@
 # Fiche d'exposition Galerie de l'Université de Montréal
 
+![Porte d'entrée de la galerie de l'Université de Montréal](/image/galerie_udem_entree.jpg)
+
 ## Nom de l’exposition ou de l’événement : 
 
 Devenirs partagés. Pratiques de l’IA
+
+![Porte d'entrée de la galerie de l'Université de Montréal](/image/galerie_udem_nom_exposition.jpg)
 
 
 ## Lieu de mise en exposition : 
@@ -41,7 +45,7 @@ Marie-Ève Levasseur
 
 Techno-compost 02 : Papier peint sur lequel on retrouve l’ensemble des images faisant partie du dossier retrouvé sur son ordinateur. On peut voir que le contenu des images se précise au fil des tentatives réalisées.
 
-Chaises en forme de scarabée : Le visiteur est invité à s’asseoir avant de mettre un casque de réalité virtuelle. Celui-ci peut ressentir des vibrations dans son dos durant tout le long de l’expérience. Le casque, une fois mis, nous plonge dans un environnement qui peut nous faire penser à une hallucination. Des formes sont visibles sans que l’on puisse identifier réellement de quoi il s’agit, des images d’insectes ou de poissons, qui en contiennent soit une multitude ou un seul, tombent du plafond et peuvent être ramassées et tenues par le visiteur pendant quelques secondes, certaines remplies de bruit et d’autres dont le contenu est parfaitement identifiable. La chaise contient quelques-une des ces images, d'ailleurs.
+Chaises : Le visiteur est invité à s’asseoir sur une chaise en forme de scarabée avant de mettre un casque de réalité virtuelle. Celui-ci peut ressentir des vibrations dans son dos durant tout le long de l’expérience. Le casque, une fois mis, nous plonge dans un environnement qui peut nous faire penser à une hallucination. Des formes sont visibles sans que l’on puisse identifier réellement de quoi il s’agit, des images d’insectes ou de poissons, qui en contiennent soit une multitude ou un seul, tombent du plafond et peuvent être ramassées et tenues par le visiteur pendant quelques secondes, certaines remplies de bruit et d’autres dont le contenu est parfaitement identifiable. La chaise contient quelques-une des ces images, d'ailleurs.
 
 
 ## Type d’installation : 
@@ -70,6 +74,10 @@ Routeur D-Link : Garde l'ordinateur connecté à Internet.
 Projecteur : Permet la présentation des diapositives de Techno-compost 01.
 
 Casques VR : Plongent le spectateur à l'intérieur d'une expérience virtuellement principalement basée sur Techno-compost 02.
+
+Chaise : Permet de poser les casques et s'asseoir pour apprécier l'expérience virtuelle.
+
+Papier peint : Permet la présentation des images de Techno-compost 02.
 
 
 ## Expérience vécue :
