@@ -1,6 +1,6 @@
 # Fiche d'exposition Galerie de l'Université de Montréal
 
-![Porte d'entrée de la galerie de l'Université de Montréal](/image/galerie_udem_entree.jpg)
+![Porte d'entrée de la galerie de l'Université de Montréal](image/galerie_udem_entree.jpg)
 
 ## Nom de l’exposition ou de l’événement : 
 
