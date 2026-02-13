@@ -1,6 +1,6 @@
 # Fiche d'exposition Galerie de l'Université de Montréal
 
-
+Toutes les photos et informations proviennent de moi, sauf si indication contraire (une annotation telle que (1))
 
 ## Nom de l’exposition ou de l’événement : 
 
@@ -43,15 +43,15 @@ Marie-Ève Levasseur
 
 ## Description de l’œuvre :
  
-  Techno-compost 01 : Cette réalisation combine plusieurs images générées par une intelligence artificielle. L’artiste a fait de multiples tentatives avant d’en arriver au résultat souhaité. Par la suite, elle a découvert, sur son ordinateur, un dossier avec des centaines d’images non-utilisées par le logiciel, appelées données d’entraînement. Les images projetées sont une collection de combinaisons de ces images 
+  Techno-compost 01 : Cette réalisation combine plusieurs images générées par une intelligence artificielle. L’artiste a fait de multiples tentatives avant d’en arriver au résultat souhaité. Par la suite, elle a découvert, sur son ordinateur, un dossier avec des centaines d’images non-utilisées par le logiciel, appelées données d’entraînement. Les images projetées sont une collection de combinaisons de ces images (2)
 
   ![Techno-compost 01, une oeuvre combinant plusieurs images d'insectes générées par intelligence artificielle. On voit des bouts de ces insectes, sans que leur forme se révèle complètement.](image/galerie_udem_tech_compost_01.jpg)
 
-Techno-compost 02 : Papier peint sur lequel on retrouve l’ensemble des images faisant partie du dossier retrouvé sur son ordinateur. On peut voir que le contenu des images se précise au fil des tentatives réalisées.
+Techno-compost 02 : Papier peint sur lequel on retrouve l’ensemble des images faisant partie du dossier retrouvé sur son ordinateur. On peut voir que le contenu des images se précise au fil des tentatives réalisées. (2)
 
  ![Techno-compost 02, un papier peint comportant des centaines d'images faisant partie de la mémoire d'entraînement d'un logiciel de génération d'images par intelligence artificielle. Plus haut, les images sont pleines de bruit et leur contenu, c'est-à dire un insecte, se précise au fil des images.](image/galerie_udem_tech_compost_02.jpg)
 
-Expérience de réalité virtuelle : Le visiteur est invité à s’asseoir sur une chaise en forme de scarabée avant de mettre un casque de réalité virtuelle. Celui-ci peut ressentir des vibrations dans son dos durant tout le long de l’expérience. Le casque, une fois mis, nous plonge dans un environnement qui peut nous faire penser à une hallucination. Des formes sont visibles sans que l’on puisse identifier réellement de quoi il s’agit, des images d’insectes ou de poissons, qui en contiennent soit une multitude ou un seul, tombent du plafond et peuvent être ramassées et tenues par le visiteur pendant quelques secondes, certaines remplies de bruit et d’autres dont le contenu est parfaitement identifiable. La chaise contient quelques-une des ces images, d'ailleurs.
+Expérience de réalité virtuelle : Le visiteur est invité à s’asseoir sur une chaise en forme de scarabée avant de mettre un casque de réalité virtuelle. Celui-ci peut ressentir des vibrations dans son dos durant tout le long de l’expérience. Le casque, une fois mis, nous plonge dans un environnement qui peut nous faire penser à une hallucination. Des formes sont visibles sans que l’on puisse identifier réellement de quoi il s’agit, des images d’insectes ou de poissons, qui en contiennent soit une multitude ou un seul, tombent du plafond et peuvent être ramassées et tenues par le visiteur pendant quelques secondes, certaines remplies de bruit et d’autres dont le contenu est parfaitement identifiable. La chaise contient quelques-une des ces images, d'ailleurs. (2)
 
  ![Chaise en forme de scarabée sur laquelle a été posée un casque de réalité virtuelle.](image/galerie_udem_chaise.jpg)
 
@@ -128,7 +128,7 @@ En arrivant dans la salle d'exposition, j'ai instantanément distingué cette oe
 
 
 1 - Marcus Andrew-Bastien, 30 janvier 2026
-2 - 
+2 - Visite de la guide
 
 
 
