@@ -87,9 +87,7 @@ Ordinateur Lenovo ThinkCentre : Héberge les fichiers audios diffusés par le ha
 
 Routeur D-Link : Garde l'ordinateur connecté à Internet.
 
-![Console audio Behringer. Sert de base à un ordinateur Lenovo ThinkCentre et un routeur D-Link. Près d'une dizaine de fils électriques passent en dessous de l'appareil. ](image/galerie_udem_routeur.jpg)
-
-
+![Routeur D-Link noir doté d'antennes fines à ses extrémités arrières. ](image/galerie_udem_routeur.jpg)
 
 
 
@@ -98,16 +96,22 @@ Routeur D-Link : Garde l'ordinateur connecté à Internet.
 
 Projecteur : Permet la présentation des diapositives de Techno-compost 01.
 
-Casques VR : Plongent le spectateur à l'intérieur d'une expérience virtuellement principalement basée sur Techno-compost 02.
+![Routeur D-Link noir doté d'antennes fines à ses extrémités arrières. ](image/galerie_udem_projecteur.jpg)
 
-Chaise : Permet de poser les casques et s'asseoir pour apprécier l'expérience virtuelle.
+Casque de réalité virtuelle : Plongent le spectateur à l'intérieur d'une expérience virtuellement principalement basée sur Techno-compost 02.
+
+![Casque de réalité virtuelle blanc sur une chaise en forme de scarabée ](image/galerie_udem_chaise_casque_vr.jpg)
 
 Papier peint : Permet la présentation des images de Techno-compost 02.
+
+![Techno-compost 02, un papier peint comportant des centaines d'images faisant partie de la mémoire d'entraînement d'un logiciel de génération d'images par intelligence artificielle. Plus haut, les images sont pleines de bruit et leur contenu, c'est-à dire un insecte, se précise au fil des images.](image/galerie_udem_tech_compost_02.jpg)
 
 
 ## Expérience vécue :
 
-En arrivant dans la salle d'exposition, j'ai instantanément distingué cette oeuvre en raison d'une caractéristique bien évidente : Son côté expérimental. J'adore la question que s'est posée l'autrice : Quelles sont les procédures informatiques cachées derrière la génération d'images par intelligence artificielle ? Le fait que ces logiciels manipulent de multiples images simultanément pour uniquement présenter ce qu'il estime être le meilleur résultat n'est pas quelque chose que je m'attendais à apprendre. L'expérience virtuelle m'a fait penser au courant artistique psychédélique, de par ces motifs surréels, presque hallucinatoires, déformées ainsi que ses couleurs variées et vives. Elle m'a déstabilisée, surstimulée, à un tel point où j'avais du mal à expliquer ce que je voyais devant moi, comme le démontre cette vidéo. 
+En arrivant dans la salle d'exposition, j'ai instantanément distingué cette oeuvre en raison d'une caractéristique bien évidente : Son côté expérimental. J'adore la question que s'est posée l'autrice : Quelles sont les procédures informatiques cachées derrière la génération d'images par intelligence artificielle ? Le fait que ces logiciels manipulent de multiples images simultanément pour uniquement présenter ce qu'il estime être le meilleur résultat n'est pas quelque chose que je m'attendais à apprendre. L'expérience virtuelle m'a fait penser au courant artistique psychédélique, de par ces motifs surréels, presque hallucinatoires, déformées ainsi que ses couleurs variées et vives. Elle m'a déstabilisée, surstimulée, à un tel point où j'avais du mal à expliquer ce que je voyais devant moi, comme le démontre cette vidéo :
+
+[Expérience vécue](https://www.youtube.com/watch?v=-QrZCRgn13w)
 
 
 ## Ce qui m'a plu :
@@ -123,8 +127,8 @@ En arrivant dans la salle d'exposition, j'ai instantanément distingué cette oe
 ## Références :
 
 
-
-
+1 - Marcus Andrew-Bastien, 30 janvier 2026
+2 - 
 
 
 
