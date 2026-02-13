@@ -58,10 +58,10 @@ Expérience de réalité virtuelle : Le visiteur est invité à s’asseoir sur 
 
 ## Type d’installation : 
 
-Techno-compost 01 et 02 : Contemplative
+Techno-compost 01 et 02 : Contemplative.
 Expérience de réalité virtuelle : Interactive 
 
- [Panorama de la zone d'exposition de Techno-compost.](https://www.youtube.com/shorts/cbBY33ZAcxo)
+ [Vue d'ensemble](https://www.youtube.com/shorts/cbBY33ZAcxo)
 
 
 ## Mise en espace :
