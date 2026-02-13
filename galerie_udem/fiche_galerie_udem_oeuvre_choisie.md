@@ -53,7 +53,7 @@ Techno-compost 02 : Papier peint sur lequel on retrouve l’ensemble des images 
 
 Expérience de réalité virtuelle : Le visiteur est invité à s’asseoir sur une chaise en forme de scarabée avant de mettre un casque de réalité virtuelle. Celui-ci peut ressentir des vibrations dans son dos durant tout le long de l’expérience. Le casque, une fois mis, nous plonge dans un environnement qui peut nous faire penser à une hallucination. Des formes sont visibles sans que l’on puisse identifier réellement de quoi il s’agit, des images d’insectes ou de poissons, qui en contiennent soit une multitude ou un seul, tombent du plafond et peuvent être ramassées et tenues par le visiteur pendant quelques secondes, certaines remplies de bruit et d’autres dont le contenu est parfaitement identifiable. La chaise contient quelques-une des ces images, d'ailleurs.
 
- ![Chaise en forme de scarabée sur laquelle a été posée un casque de réalité virtuelle.](image/galerie_udem_chaise_casque_vr.jpg)
+ ![Chaise en forme de scarabée sur laquelle a été posée un casque de réalité virtuelle.](image/galerie_udem_chaise.jpg)
 
 
 ## Type d’installation : 
@@ -83,10 +83,15 @@ Console audio Behringer : Permet de gérer le volume sonore sortant des haut-par
 
 Ordinateur Lenovo ThinkCentre : Héberge les fichiers audios diffusés par le haut-parleur.
 
- ![Console audio Behringer. Sert de base à un ordinateur Lenovo ThinkCentre et un routeur D-Link. Près d'une dizaine de fils électriques passent en dessous de l'appareil. ](image/galerie_udem_ordinateur.jpg)
-
+ ![Ordinateur Lenovo ThinkCentre. ](image/galerie_udem_ordinateur.jpg)
 
 Routeur D-Link : Garde l'ordinateur connecté à Internet.
+
+![Console audio Behringer. Sert de base à un ordinateur Lenovo ThinkCentre et un routeur D-Link. Près d'une dizaine de fils électriques passent en dessous de l'appareil. ](image/galerie_udem_routeur.jpg)
+
+
+
+
 
 
 ## Éléments de mise en exposition
