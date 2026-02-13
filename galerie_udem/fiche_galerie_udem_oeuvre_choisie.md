@@ -68,7 +68,7 @@ Expérience de réalité virtuelle : Interactive
 
 Le visiteur entre dans la galerie et est directement introduit à l'exposition par une affiche située sur le mur à sa droite : L'oeuvre que j'ai choisi se trouve dans le coin de la pièce qui lui face. Techno-compost 01 est projeté sur le mur avant qui est adjacent à l'affiche, alors que Techno-compost 02 est présenté sur le même mur.
 
-
+ ![Chaise en forme de scarabée sur laquelle a été posée un casque de réalité virtuelle.](croquis/galerie_udem_croquis.jpg)
 
 
 ## Composantes et techniques
