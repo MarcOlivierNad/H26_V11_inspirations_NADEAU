@@ -83,6 +83,8 @@ Console audio Behringer : Permet de gérer le volume sonore sortant des haut-par
 
 Ordinateur Lenovo ThinkCentre : Héberge les fichiers audios diffusés par le haut-parleur.
 
+![Console audio Behringer. Sert de base à un ordinateur Lenovo ThinkCentre et un routeur D-Link. Près d'une dizaine de fils électriques passent en dessous de l'appareil. ](image/galerie_udem_ordinateur.jpg)
+
 Routeur D-Link : Garde l'ordinateur connecté à Internet.
 
 
