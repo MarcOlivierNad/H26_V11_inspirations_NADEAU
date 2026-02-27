@@ -73,7 +73,7 @@ La plupart des événements relatés dans les vidéos de la machine à voyager d
 ## Ce qui m'a plu : 
 
 - Certains des éléments du décor ont une utilité autre que esthétique, c’est-à-dire qu’ils émettent carrément du contenu sonore en lien avec les vidéos regardées, ce que je considère comme très créatif et adapté à la fonction du dispositif. Autrement dit, il n’y a pas des objets dans le simple et unique but qu’il y ait des objets.
-- Interface d’accueil du dispositif. Les lignes projetées sur le mur ont un valeur presque poétique, comme si elles essayaient de démontrer que tous les événements de l’histoire sont liés à l’un et l’autre. ✅
+- Interface d’accueil du dispositif. Les lignes projetées sur le mur ont un valeur presque poétique, comme si elles essayaient de démontrer que tous les événements de l’histoire sont liés à l’un et l’autre. 
   
 ## Ce que vous feriez autrement : 
 
