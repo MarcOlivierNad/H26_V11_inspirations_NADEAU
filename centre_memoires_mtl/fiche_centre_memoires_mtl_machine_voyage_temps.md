@@ -60,24 +60,29 @@ Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble
 
 Boutons : Lancent les vidéos associées à l’œuvre
 
+![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia](./images/centre_memoires_mtl_vue_ensemble.jpg)
+
 ## Éléments nécessaires à la mise en exposition :
 
-Projecteurs lumineux : Éclairent la pièce
+- Projecteurs lumineux : Éclairent la pièce
 
-Panneau d’affichage : Diffuse du contenu en  lien avec certains éléments présentés sur le mur incurvé
+ ![Projecteurs accrochés au plafond émettent une lumière blanche dans la pièce. Du point de vue duquel la photo a été prise, cependant, la lumière paraît jaune.](./images/centre_memoires_mtl_projecteurs_lumineux.jpg)
 
-Haut-parleurs : Diffusent les sons provenant de l'ordinateur.
+- Panneau d’affichage : Diffuse du contenu en lien avec certains éléments présentés sur le mur incurvé
+
+
+
+- Haut-parleurs : Diffusent les sons provenant de l'ordinateur.
 
 Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l’époque où les faits étant relatés ont pris place/lisent des citations écrites. Dans ce cas, le son sort de deux autres haut parleurs situés à l’intérieur de la radio rétro et de la radiocassette visibles ci-dessous. Ces derniers émettent une source sonore indépendante des deux haut parleurs principaux. Les fréquences sonores sont filtrées pour donner une touche différente au son. 
 
-Téléviseurs rétro Curtis : Lorsque des images d’archives sont diffusées à l’écran, le téléviseur s’allume et duplique ce contenu.
+- Téléviseurs rétro Curtis : Lorsque des images d’archives sont diffusées à l’écran, le téléviseur s’allume et duplique ce contenu.
 
- Mur incurvé : Rend possible la projection des fichiers vidéos utilisés pour l’exposition avec la configuration de projecteurs.
- 
+- Mur incurvé : Rend possible la projection des fichiers vidéos utilisés pour l’exposition avec la configuration de projecteurs.
 
-Projecteurs Epson : Permettent la diffusion des vidéos utilisées par le dispositif. Quatre disposés dans des angles différents pour couvrir l’intégralité du mur.
+- Projecteurs Epson : Permettent la diffusion des vidéos utilisées par le dispositif. Quatre disposés dans des angles différents pour couvrir l’intégralité du mur.
 
-Ordinateurs : Héberge les fichiers utilisés par le dispositif. Situé dans une pièce verrouillée à clé située derrière le mur incurvé.
+- Ordinateurs : Héberge les fichiers utilisés par le dispositif. Situé dans une pièce verrouillée à clé située derrière le mur incurvé (1)
 
 ## Expérience vécue :
 
@@ -91,4 +96,8 @@ La plupart des événements relatés dans les vidéos de la machine à voyager d
 ## Ce que vous feriez autrement : 
 
 - Masquer la ventilation et les fils électriques avec un plafond afin d’embellir les lieux
-- Enlever le fondu audio sortant et l’animation de fin sur la vidéo d’accueil de la machine à voyager dans le temps afin de briser l’impression, chez le spectateur, qu’il ne s’agit que d’une vidéo qui joue en boucle. 
+- Enlever le fondu audio sortant et l’animation de fin sur la vidéo d’accueil de la machine à voyager dans le temps afin de briser l’impression, chez le spectateur, qu’il ne s’agit que d’une vidéo qui joue en boucle.
+
+Références :
+
+1 : Employée du Centre des mémoires montréalaises - Élizabeth Courteau
