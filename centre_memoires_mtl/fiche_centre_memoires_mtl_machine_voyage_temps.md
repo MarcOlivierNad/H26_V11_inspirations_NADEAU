@@ -61,6 +61,9 @@ Diffusion du patrimoine immatériel
 ## Mise en espace : 
 
 Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble. Après avoir fait vérifier son billet par un membre du personnel, il/elle/iel se voit offrir le choix de deux expositions différentes : Sur la gauche, l’exposition temporaire immersive « Détours - Rencontres urbaines ». Sur la droite, maintenant, se trouve toute la section consacrée à l’exposition que j’ai choisie. Le visiteur traverse un large couloir bourré de cartels et d’affiches informatives. Il est alors possible d’accéder au dispositif via une série de pièces dont l'entrée se situe juste à côté de l’affiche de l’exposition.
+(3)
+
+![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia.](./images/)
 
 ## Composantes et techniques : 
 
