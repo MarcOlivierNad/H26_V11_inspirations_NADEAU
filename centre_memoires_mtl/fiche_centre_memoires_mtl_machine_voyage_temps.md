@@ -4,13 +4,13 @@
 
 Montréal
 
-![Affiche portant le nom de leeeee'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
+![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
 
 ## Lieu de mise en exposition : 
 
 1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
 
-![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_lieu_exposition.jpg)
+![Jeune homme se prenant en selfie devant l'entrée du Centre des mémoires montréalaises, à Montréal, Québec, Canada](./images/centre_memoires_mtl_lieu_exposition.jpg)
 
 ## Type d’exposition :
 
@@ -22,7 +22,10 @@ Vendredi 20 février 2026
 
 ## Titre de l’œuvre ou du dispositif : 
 
-La machine à voyager dans le temps
+Titre français : Une machine à voyager dans le temps
+Titre anglais : A time machine
+
+![Cartel rouge sur lequel est marqué le nom de l'oeuvre : Une machine à voyager dans le temps. Des boutons permettant de lancer les diverses vidéos utilisées par le dispositif sont organisés par sections, c'est-à-dire, en fonction de la vidéo souhaitée. Dans chaque cas deux options de langues sont proposées : Français ou Anglais](./images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
 
 ## Nom de l’artiste ou de la firme :
 
@@ -58,13 +61,14 @@ Projecteurs lumineux : Éclairent la pièce
 
 Panneau d’affichage : Diffuse du contenu en  lien avec certains éléments présentés sur le mur incurvé
 
-Haut-parleurs : Stéréo. Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l’époque où les faits étant relatés ont pris place/lisent des citations écrites. Dans ce cas, le son sort de deux autres haut parleurs situés à l’intérieur de la radio rétro et de la radiocassette visibles ci-dessous. Ces derniers émettent une source sonore indépendante des deux haut parleurs principaux. Les fréquences sonores sont filtrées pour donner une touche différente au son.
+Haut-parleurs : Diffusent les sons provenant de l'ordinateur.
+
+Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l’époque où les faits étant relatés ont pris place/lisent des citations écrites. Dans ce cas, le son sort de deux autres haut parleurs situés à l’intérieur de la radio rétro et de la radiocassette visibles ci-dessous. Ces derniers émettent une source sonore indépendante des deux haut parleurs principaux. Les fréquences sonores sont filtrées pour donner une touche différente au son. 
 
 Téléviseurs rétro Curtis : Lorsque des images d’archives sont diffusées à l’écran, le téléviseur s’allume et duplique ce contenu.
 
  Mur incurvé : Rend possible la projection des fichiers vidéos utilisés pour l’exposition avec la configuration de projecteurs.
  
-Haut-parleurs : Diffusent les sons provenant de l’ordinateur.
 
 Projecteurs Epson : Permettent la diffusion des vidéos utilisées par le dispositif. Quatre disposés dans des angles différents pour couvrir l’intégralité du mur.
 
