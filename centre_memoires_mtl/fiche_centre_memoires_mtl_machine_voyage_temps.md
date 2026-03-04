@@ -4,7 +4,7 @@
 
 Montréal
 
-![Affiche portant le nom de l'exposition : Montréal](/images/centre_memoires_mtl_affiche_exposition.jpg)
+![Affiche portant le nom de l'exposition : Montréal](/images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
 
 ## Lieu de mise en exposition : 
 
