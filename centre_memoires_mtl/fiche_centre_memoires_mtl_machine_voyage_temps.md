@@ -109,6 +109,6 @@ La plupart des événements relatés dans les vidéos de la machine à voyager d
 - Masquer la ventilation et les fils électriques avec un plafond afin d’embellir les lieux
 - Enlever le fondu audio sortant et l’animation de fin sur la vidéo d’accueil de la machine à voyager dans le temps afin de briser l’impression, chez le spectateur, qu’il ne s’agit que d’une vidéo qui joue en boucle.
 
-Références :
+## Références :
 
 1 : Employée du Centre des mémoires montréalaises - Élizabeth Courteau
