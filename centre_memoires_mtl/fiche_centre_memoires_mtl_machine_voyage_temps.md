@@ -25,7 +25,7 @@ Vendredi 20 février 2026
 Titre français : Une machine à voyager dans le temps ­<br>
 Titre anglais : A time machine
 
-![Cartel rouge sur lequel est marqué le nom de l'oeuvre : Une machine à voyager dans le temps. Des boutons permettant de lancer les diverses vidéos utilisées par le dispositif sont organisés par sections, c'est-à-dire, en fonction de la vidéo souhaitée. Dans chaque cas deux options de langues sont proposées : Français ou Anglais](./images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
+![Cartel rouge sur lequel est marqué le nom de l'oeuvre : Une machine à voyager dans le temps. Des boutons permettant de lancer les diverses vidéos utilisées par le dispositif sont organisés par sections, c'est-à-dire, en fonction de la vidéo souhaitée. Dans chaque cas deux options de langues sont proposées : Français ou Anglais.](./images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
 
 ## Nom de l’artiste ou de la firme :
 
@@ -39,14 +39,11 @@ Directedbyvea
 
 Le visiteur arrive devant une salle munie de multiples projecteurs diffusant une vidéo en boucle sur un mur incurvé. Elle sert, en quelque sorte, de « menu d’accueil »au dispositif multimédia. Le mur est bourré d’objets historiques ou pouvant être associés à la culture montréalaise, tels que d’anciens chandails du Canadien de Montréal, un saxophone, des télévisions rétros et tant d’autres. Le cartel, interactif, donne, au visiteur, le choix entre six différentes capsules vidéos racontant l’histoire de notre métropole sous différentes facettes. On y explore, notamment, les innovations technologiques et culturelles ayant faites surface à Montréal, ses divers épisodes de tensions sociopolitiques, ses minorités historiques et tant d’autres éléments. Certains des sons perçus pendant la diffusion des vidéos proviennent même des objets eux-mêmes, en fonction de l’époque à laquelle ils sont associés (ex: Le son de citations lues à l’oral et datées du 19e siècle provient de cette radio rétro). Les vieilles télévisions diffusent le même contenu que les projecteurs lorsque des images d'archives sont diffusées.
 
-![Mur incurvé sur lequel est projeté un nombre symbolisant une année du calendrier qrégorien changeant constamment. Des objets symbolisant la culture et l'histoire de Montréal sont également accrochés.](./images/centre_memoires_mlt_mur_incurve.jpg)
+![Vue panoramique du dispositif multimédia.](./images/centre_memoires_mtl_vue_ensemble.jpg)
 
 ## Type d’installation (VIDÉO À PRENDRE) : 
 
-Immersive 
-
-![Vue panoramique du dispositif multimédia](./images/centre_memoires_mtl_vue_ensemble.jpg)
-
+Immersive
 
 ## Fonction du dispositif multimédia : 
 
@@ -60,7 +57,7 @@ Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble
 
 Boutons : Lancent les vidéos associées à l’œuvre
 
-![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia](./images/centre_memoires_mtl_bouton.jpg)
+![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia.](./images/centre_memoires_mtl_bouton.jpg)
 
 ## Éléments nécessaires à la mise en exposition :
 
@@ -70,7 +67,7 @@ Boutons : Lancent les vidéos associées à l’œuvre
 
 - Panneau d’affichage : Diffuse du contenu en lien avec certains éléments présentés sur le mur incurvé durant les vidéos
 
- ![Panneau à l'intérieur duquel a été inséré un écran. On y voit une image sur fond noir avec un texte écrit en majuscule : MONTRÉAL FAIT L'ÉVÉNEMENT. En arrière-plan, il est possible d'aperçevoir des lignes courbées de différentes couleurs, symbolisant le réseau de métro montréalais](./images/centre_memoires_mtl_panneau_affichage.jpg)
+ ![Panneau à l'intérieur duquel a été inséré un écran. On y voit une image sur fond noir avec un texte écrit en majuscule : MONTRÉAL FAIT L'ÉVÉNEMENT. En arrière-plan, il est possible d'aperçevoir des lignes courbées de différentes couleurs, symbolisant le réseau de métro montréalais.](./images/centre_memoires_mtl_panneau_affichage.jpg)
 
 - Haut-parleurs : Diffusent les sons provenant de l'ordinateur.
 
@@ -81,16 +78,22 @@ Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l
 ![Radio des années 1930](./images/centre_memoires_mtl_radio_retro_1930.jpg)
 ![Radio-cassette des années 1980](./images/centre_memoires_mtl_radio_cassette.jpg)
 
-
 - Téléviseurs rétros Curtis et Admiral : Lorsque des images d’archives sont diffusées à l’écran, un téléviseur ou l'autre s’allume et duplique ce contenu.
 
-  
+![Téléviseur rétro Curtis. Des images de l'exposition universelle de 1967, ayant eu lieu à Montréal, apparaissent à l'écran.](./images/centre_memoires_mtl_televiseur_retro_curtis.jpg) 
+![Téléviseur rétro Admiral éteint.](./images/centre_memoires_mtl_televiseur_retro_admiral.jpg) 
 
 - Mur incurvé : Rend possible la projection des fichiers vidéos utilisés pour l’exposition avec la configuration de projecteurs.
 
+ ![Mur incurvé sur lequel est projeté un nombre symbolisant une année du calendrier qrégorien changeant constamment. Des objets symbolisant la culture et l'histoire de Montréal sont également accrochés.](./images/centre_memoires_mtl_mur_incurve.jpg)
+
 - Projecteurs Epson : Permettent la diffusion des vidéos utilisées par le dispositif. Quatre disposés dans des angles différents pour couvrir l’intégralité du mur.
 
+![Projecteurs Epson accrochés au plafond et couvrant la section du mur incurvé leur faisant face.](./images/centre_memoires_mtl_projecteurs_epson.jpg)
+
 - Ordinateurs : Héberge les fichiers utilisés par le dispositif. Situé dans une pièce verrouillée à clé située derrière le mur incurvé (1)
+
+![Projecteurs Epson accrochés au plafond et couvrant la section du mur incurvé leur faisant face.](./images/centre_memoires_mtl_projecteurs_epson.jpg)
 
 ## Expérience vécue :
 
