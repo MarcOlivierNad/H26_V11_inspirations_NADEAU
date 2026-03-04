@@ -39,9 +39,14 @@ Directedbyvea
 
 Le visiteur arrive devant une salle munie de multiples projecteurs diffusant une vidéo en boucle sur un mur incurvé. Elle sert, en quelque sorte, de « menu d’accueil »au dispositif multimédia. Le mur est bourré d’objets historiques ou pouvant être associés à la culture montréalaise, tels que d’anciens chandails du Canadien de Montréal, un saxophone, des télévisions rétros et tant d’autres. Le cartel, interactif, donne, au visiteur, le choix entre six différentes capsules vidéos racontant l’histoire de notre métropole sous différentes facettes. On y explore, notamment, les innovations technologiques et culturelles ayant faites surface à Montréal, ses divers épisodes de tensions sociopolitiques, ses minorités historiques et tant d’autres éléments. Certains des sons perçus pendant la diffusion des vidéos proviennent même des objets eux-mêmes, en fonction de l’époque à laquelle ils sont associés (ex: Le son de citations lues à l’oral et datées du 19e siècle provient de cette radio rétro). Les vieilles télévisions diffusent le même contenu que les projecteurs lorsque des images suffisamment anciennes sont diffusées.
 
+![Mur incurvé sur lequel est projeté un nombre symbolisant une année du calendrier qrégorien changeant constamment. Des objets symbolisant la culture et l'histoire de Montréal sont également accrochés.](./images/centre_memoires_mlt_mur_incurve.jpg)
+
 ## Type d’installation (VIDÉO À PRENDRE) : 
 
 Immersive 
+
+![Vue panoramique du dispositif multimédia](./images/centre_memoires_mtl_vue_ensemble.jpg)
+
 
 ## Fonction du dispositif multimédia : 
 
