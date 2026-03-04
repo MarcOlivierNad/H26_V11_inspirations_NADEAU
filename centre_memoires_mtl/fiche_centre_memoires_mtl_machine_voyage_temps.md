@@ -53,7 +53,7 @@ Diffusion du patrimoine immatériel
 
 ## Mise en espace : 
 
-Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble. Après avoir fait vérifier son billet par un membre du personnel, il/elle/iel se voit offrir le choix de deux expositions différentes : Sur la gauche, l’exposition temporaire immersive « Détours - Rencontres urbaines ». Sur la droite, maintenant, se trouve toute la section consacrée à l’exposition que j’ai choisie. Le visiteur traverse un large couloir bourré de cartels et d’affiches informatives. Il est alors possible d’accéder au dispositif via deux séries de pièces différentes : L’une accessible juste à côté de l’affiche de l’exposition, l’autre, en circulant jusqu’au bout du couloir mentionné précédemment.
+Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble. Après avoir fait vérifier son billet par un membre du personnel, il/elle/iel se voit offrir le choix de deux expositions différentes : Sur la gauche, l’exposition temporaire immersive « Détours - Rencontres urbaines ». Sur la droite, maintenant, se trouve toute la section consacrée à l’exposition que j’ai choisie. Le visiteur traverse un large couloir bourré de cartels et d’affiches informatives. Il est alors possible d’accéder au dispositif via une série de pièces dont l'entrée se situe juste à côté de l’affiche de l’exposition.
 
 ## Composantes et techniques : 
 
@@ -87,21 +87,21 @@ Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l
 
 - Mur incurvé : Rend possible la projection des fichiers vidéos utilisés pour l’exposition avec la configuration de projecteurs.
 
- ![Mur incurvé sur lequel est projeté un nombre symbolisant une année du calendrier qrégorien changeant constamment. Des objets symbolisant la culture et l'histoire de Montréal sont également accrochés.](./images/centre_memoires_mtl_mur_incurve.jpg)
+ ![Mur incurvé sur lequel est projeté un nombre symbolisant une année du calendrier qrégorien changeant constamment. Des objets symbolisant la culture et l'histoire de Montréal sont également accrochés.](./images/centre_memoires_mtl_mur_incurve.jpg)(2)
 
 - Projecteurs Epson : Permettent la diffusion des vidéos utilisées par le dispositif. Quatre disposés dans des angles différents pour couvrir l’intégralité du mur.
 
-![Projecteurs Epson accrochés au plafond et couvrant la section du mur incurvé leur faisant face.](./images/centre_memoires_mtl_projecteurs_epson.jpg)
+![Projecteurs Epson accrochés au plafond et couvrant la section du mur incurvé leur faisant face.](./images/centre_memoires_mtl_projecteurs_epson.jpg)(2)
 
 - Ordinateurs : Héberge les fichiers utilisés par le dispositif. Situé dans une pièce verrouillée à clé située derrière le mur incurvé (1)
 
-![Deux portes côte-à-côte dans un couloir étroit, l'une étant positionnée dans l'axe contraire à celui dans lequel la photo a été prise et l'autre, en face du photographe.](./images/centre_memoires_mtl_piece_ordinateur.jpg)
+![Deux portes côte-à-côte dans un couloir étroit, l'une étant positionnée dans l'axe contraire à celui dans lequel la photo a été prise et l'autre, en face du photographe.](./images/centre_memoires_mtl_piece_ordinateur.jpg)(2)
 
 ## Expérience vécue :
 
 La plupart des événements relatés dans les vidéos de la machine à voyager ont été abordés en long et en large durant notre parcours scolaire. En ce sens, je n’ai pas eu l’impression d’apprendre grand chose sur l’histoire de ma métropole. Il y avait cependant un côt à la fois très intéressant mais aussi envahissant avec les illustrations et images d’époques montrées à l’écran. On y voit des lieux, des personnes qui n’existent tous deux même plus aujourd’hui. Nous n’observons que des fantômes et cette constatation m’a donné des frissons dans le dos.
 
-[Expérience vécue](https://www.youtube.com/watch?v=BHkPEUr2cxU)
+[Expérience vécue](https://www.youtube.com/watch?v=BHkPEUr2cxU)(2)
 
 ## Ce qui m'a plu : 
 
@@ -116,3 +116,4 @@ La plupart des événements relatés dans les vidéos de la machine à voyager o
 ## Références :
 
 1 : Employée du Centre des mémoires montréalaises - Élizabeth Courteau
+2 : Marc-Olivier Nadeau, 20 février 2026
