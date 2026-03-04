@@ -4,6 +4,8 @@
 
 Montréal
 
+![Affiche portant le nom de l'exposition : Montréal](image/centre_memoiresmtl_affiche_exposition.jpg)
+
 ## Lieu de mise en exposition : 
 
 1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5 
