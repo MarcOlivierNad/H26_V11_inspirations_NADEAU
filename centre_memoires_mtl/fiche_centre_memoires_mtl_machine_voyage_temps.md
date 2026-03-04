@@ -93,7 +93,7 @@ Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l
 
 - Ordinateurs : Héberge les fichiers utilisés par le dispositif. Situé dans une pièce verrouillée à clé située derrière le mur incurvé (1)
 
-![Projecteurs Epson accrochés au plafond et couvrant la section du mur incurvé leur faisant face.](./images/centre_memoires_mtl_projecteurs_epson.jpg)
+![Deux portes côte-à-côte dans un couloir étroit, l'une étant positionnée dans l'axe contraire à celui dans lequel la photo a été prise et l'autre, en face du photographe.](./images/centre_memoires_mtl_projecteurs_epson.jpg)
 
 ## Expérience vécue :
 
