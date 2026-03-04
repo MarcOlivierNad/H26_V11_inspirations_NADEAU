@@ -1,4 +1,4 @@
-# Fiche d'exposition Centre des mémoires Montréalaises - Machine à voyager dans le temps
+# Fiche d'exposition Centre des mémoires montréalaises - Machine à voyager dans le temps
 
 ## Nom de l’exposition :
 
