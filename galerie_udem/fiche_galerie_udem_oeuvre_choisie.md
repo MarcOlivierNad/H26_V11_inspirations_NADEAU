@@ -6,7 +6,7 @@ Toutes les photos et informations proviennent de moi, sauf si indication contrai
 
 Devenirs partagés. Pratiques de l’IA
 
-![Affiche portant le titre](image/centre_memoires_mtl_affiche_exposition.jpg)
+![Affiche portant le titre](image/galerie_udem_entree.jpg)
 
 
 ## Lieu de mise en exposition : 
