@@ -101,7 +101,7 @@ Il arrive, parfois, que des doubleurs incarnent des personnages ayant vécu à l
 
 La plupart des événements relatés dans les vidéos de la machine à voyager ont été abordés en long et en large durant notre parcours scolaire. En ce sens, je n’ai pas eu l’impression d’apprendre grand chose sur l’histoire de ma métropole. Il y avait cependant un côt à la fois très intéressant mais aussi envahissant avec les illustrations et images d’époques montrées à l’écran. On y voit des lieux, des personnes qui n’existent tous deux même plus aujourd’hui. Nous n’observons que des fantômes et cette constatation m’a donné des frissons dans le dos.
 
-[Expérience vécue](https://www.youtube.com/watch?v=BHkPEUr2cxU)
+![Expérience vécue](https://www.youtube.com/watch?v=BHkPEUr2cxU)
 
 ## Ce qui m'a plu : 
 
