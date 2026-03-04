@@ -4,13 +4,13 @@
 
 Montréal
 
-![Affiche portant le nom de leeeee'exposition : Montréal](/images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
+![Affiche portant le nom de leeeee'exposition : Montréal](./images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
 
 ## Lieu de mise en exposition : 
 
 1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
 
-![Affiche portant le nom de l'exposition : Montréal](/images/centre_memoires_mtl_lieu_exposition.jpg)
+![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_lieu_exposition.jpg)
 
 ## Type d’exposition :
 
