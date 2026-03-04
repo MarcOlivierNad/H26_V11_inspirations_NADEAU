@@ -60,7 +60,7 @@ Le visiteur monte d’abord les escaliers vers le premier étage de l’immeuble
 
 Boutons : Lancent les vidéos associées à l’œuvre
 
-![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia](./images/centre_memoires_mtl_vue_ensemble.jpg)
+![Gros plan sur les boutons du cartel permettant de lancer les vidéos associées au dispositif multimédia](./images/centre_memoires_mtl_bouton.jpg)
 
 ## Éléments nécessaires à la mise en exposition :
 
