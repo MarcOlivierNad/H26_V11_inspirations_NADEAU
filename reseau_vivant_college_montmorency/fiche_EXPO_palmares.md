@@ -46,6 +46,7 @@ Pour plus d'informations sur cette oeuvre, voir fiche_EXPO_oeuvre_choisie.md où
 ## Références
 
 1 - 
+<br>
 2 -
 3 -
 4 -
