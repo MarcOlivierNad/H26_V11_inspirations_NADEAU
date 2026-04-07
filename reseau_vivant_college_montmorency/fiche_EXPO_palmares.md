@@ -37,7 +37,7 @@ J’ai aimé ce dispositif pour essentiellement les mêmes raisons que celui cla
 ## 1 - Mission Décollage (Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi)
 
 ![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_mission_decollage.jpg)
-![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_mission_decollage.jpg) (7)
+![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_mission_decollage.jpg) (8)
 
 Avec Mission Décollage, Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi ont réussi, à mes yeux, à se distinguer de toutes les autres oeuvres présentées durant l'exposition Réseau vivant. La thématique de l'espace donne un charme incroyable à l'oeuvre présentée. L'ambiance sonore contribuait également à m'immerger dans l'univers du jeu. Mais ce qui fait vraiment la force de Mission décollage par rapport aux autres projets est sans doute la réceptivité des membres de l'équipe aux critiques reçues dans le formulaire d'évaluation rempli par les visiteurs. En effet, lorsque nous avions visité le grand studio une première fois pour tester Misssion Décollage, alors encore en phase de développement, deux reproches principales avaient été adressées aux créateurs du jeu. La première : Le jeu était BEAUCOUP trop dûr à compléter. La seconde : On devait mémoriser ce que chacune des touches du panneau de contrôle faisait puisqu'on nous expliquait ses fonctionnalités uniquement au début de notre session de jeu et il en y avait des dizaines. Dans la semaine qui s'est écoulée entre notre visite et l'exposition, l'équipe de Mission Décollage a collé des étiquettes près des boutons pour rendre la maîtrise des contrôles du jeu plus facile et a diminué le nombre d'événements qui se produisaient. De plus, ils ont refait une bonne partie de l'interface, laquelle était, initialement, plutôt médiocre.
 
@@ -57,7 +57,9 @@ Pour plus d'informations sur cette oeuvre, voir fiche_EXPO_oeuvre_choisie.md où
 <br>
 6 -
 <br>
-7 -
+7 - https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/, consulté le 2026-04-07
+<br>
+8 -
 
 
 
