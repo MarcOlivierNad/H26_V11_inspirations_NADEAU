@@ -32,7 +32,7 @@ Le concept du jeu m'a vendu ce dispositif multimédia. J'ai énormément appréc
 ![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_symbiose.jpg)
 ![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_symbiose.webp) (6)
 
-J’ai aimé ce dispositif pour essentiellement les mêmes raisons que celui classé en troisième position. Or, contrairement à Terminal, Symbiose est un jeu parfaitement fonctionnel qui, en plus, n’a aucune fin définie. La difficulté du jeu augmente progressivement et seules les actions de l’équipe déterminent combien de temps leur partie durera. Le processus de démarrage d’une partie est beaucoup plus rapide, là où pour jouer à Terminal, il fallait scanner un code QR pour se connecter à la partie, puis attendre que tous les autres rejoignent la partie et se déclarent prêts à jouer. Dans le cas de ce jeu, appuyer un bouton suffit. J’adore aussi l’esthétique du jeu, l’apparence « cartoonesque » des objets mais aussi l’écran de télévision faisant office de chronomètre.
+J’ai aimé ce dispositif pour essentiellement les mêmes raisons que celui classé en troisième position. Or, contrairement à Terminal, Symbiose est un jeu parfaitement fonctionnel qui, en plus, n’a aucune fin définie. La difficulté du jeu augmente progressivement et seules les actions de l’équipe déterminent combien de temps leur partie durera. Le processus de démarrage d’une partie est beaucoup plus rapide, là où pour jouer à Terminal, il fallait scanner un code QR pour se connecter à la partie, puis attendre que tous les autres rejoignent la partie et se déclarent prêts à jouer. Dans le cas de ce jeu, appuyer un bouton suffit. J’adore aussi l’esthétique du jeu, l’apparence « cartoonesque » (7) des objets mais aussi l’écran de télévision faisant office de chronomètre.
 
 ## 1 - Mission Décollage (Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi)
 
@@ -45,21 +45,21 @@ Pour plus d'informations sur cette oeuvre, voir fiche_EXPO_oeuvre_choisie.md où
 
 ## Références
 
-1 - 
+1 - https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/
 <br>
-2 -
+2 - https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/, consulté le 2026-04-07
 <br>
-3 -
+3 - https://mammouths.github.io/projet/#/technique/, consulté le 2026-04-07
 <br>
-4 -
+4 - https://deux-intelligence.github.io/deux-neurones/#/technique/, consulté le 2026-04-07
 <br>
-5 -
+5 - https://pythons-5.github.io/Terminal/#/technique/, consulté le 2026-04-07
 <br>
-6 -
+6 - https://les-chimistes.github.io/symbiose/#/technique/, consulté le 2026-04-07
 <br>
-7 - https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/, consulté le 2026-04-07
+7 - https://les-chimistes.github.io/symbiose/#/concept/, consulté le 2026-04-07
 <br>
-8 -
+8 - https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/, consulté le 2026-04-07
 
 
 
