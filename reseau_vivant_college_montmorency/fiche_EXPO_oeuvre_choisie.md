@@ -24,4 +24,40 @@ Mission décollage
 
 ![Cartel du dispositif multimédia mission décollage.](images/college_momo_cartel.jpg)
 
+## Nom des artistes :
+
+Justin Montpetit, Ahmed Kaissoumi, Radhouane Kordan, Jade Saloumi, Thearylou Lach
+
+## Année de réalisation : 
+
+2026
+
+## Description de l'oeuvre ou du dispositif :
+
+## Type d'installation :
+
+Interactive
+
+
+
+## Fonction du dispositif multimédia :
+
+Scénographie
+
+## Mise en espace :
+
+## Composantes et techniques :
+
+## Éléments nécessaires à la mise en exposition :
+
+## Expérience vécue :
+
+## Ce qui m'a plu :
+
+## Ce que je ferais autrement :
+
+## Références :
+
+
+
 
