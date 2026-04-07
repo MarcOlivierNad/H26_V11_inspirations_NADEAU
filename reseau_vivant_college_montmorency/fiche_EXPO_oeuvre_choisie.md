@@ -4,7 +4,7 @@
 
 RÉSEAU VIVANT
 
-![Affiche de l'exposition réseau vivant. Une typographie grasse sur fond noir accompagné de lignes bleuâtres](college_momo_affiche_exposition.jpg)
+![Affiche de l'exposition réseau vivant. Une typographie grasse sur fond noir accompagné de lignes bleuâtres.](college_momo_affiche_exposition.jpg)
 
 
 
