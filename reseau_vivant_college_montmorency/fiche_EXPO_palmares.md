@@ -29,10 +29,16 @@ Le concept du jeu m'a vendu ce dispositif multimédia. J'ai énormément appréc
 
 ## 2 - Symbiose (Émeryk Belisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger)
 
-![Image du dispositif Terminal complété. Écran-titre du jeu. Titre vert pâle sur fond noir avec des chiffres en arrière-plan.](images/college_momo_symbiose.jpg)
+![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_symbiose.jpg)
 ![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_symbiose.webp)
 
+J’ai aimé ce dispositif pour essentiellement les mêmes raisons que celui classé en troisième position. Or, contrairement à Terminal, Symbiose est un jeu parfaitement fonctionnel qui, en plus, n’a aucune fin définie. La difficulté du jeu augmente progressivement et seules les actions de l’équipe déterminent combien de temps leur partie durera. Le processus de démarrage d’une partie est beaucoup plus rapide, là où pour jouer à Terminal, il fallait scanner un code QR pour se connecter à la partie, puis attendre que tous les autres rejoignent la partie et se déclarent prêts à jouer. Dans le cas de ce jeu, appuyer un bouton suffit. J’adore aussi l’esthétique du jeu, l’apparence « cartoonesque » des objets mais aussi l’écran de télévision faisant office de chronomètre.
 
+## 1 - Mission Décollage (Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi)
+
+![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_mission_decollage.jpg)
+
+Avec Mission Décollage, Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi
 
 
 
