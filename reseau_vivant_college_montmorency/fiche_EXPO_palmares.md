@@ -27,7 +27,7 @@ Pour un projet réalisé par uniquement deux personnes, le résultat n'est vraim
 
 Le concept du jeu m'a vendu ce dispositif multimédia. J'ai énormément apprécié son aspect coopératif. Le fait que les actions d'une seule personne pouvaient ruiner la partie des autres ajoutait une dynamique très intéressante à notre expérience de jeu : Une frustration envers l'incompétent de notre partie qui mourrait deux fois plus que les autres joueurs, notamment. Les contrôles du jeu sont simples et relativement rapides, à maîtriser. En somme, l'équipe d'Émeryk Belisle a suivi à la lettre la recette pour produire un jeu vidéo addictif. Cependant, l'oeuvre perd ÉNORMÉMENT d'un point de vue technique : Après avoir complété un certain nombre de niveaux (je ne me rappelle plus exactement combien, mais celui-ci variait en fonction du nombre de joueurs), nous tombions systématiquement sur un niveau où les contrôles du jeu ne fonctionnaient pas, une erreur s'expliquant fort probablement par le fait que le code n'était simplement pas terminé pour certains niveaux. 
 
-## 2 - Symbiose (Émeryk Belisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger)
+## 2 - Symbiose (Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour)
 
 ![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_symbiose.jpg)
 ![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_symbiose.webp)
@@ -37,8 +37,16 @@ J’ai aimé ce dispositif pour essentiellement les mêmes raisons que celui cla
 ## 1 - Mission Décollage (Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi)
 
 ![Image du dispositif Symbiose complété. Laboratoire scientifique style cartoon avec fenêtre.](images/college_momo_mission_decollage.jpg)
+![Schéma 3D de mise en espace du dispositif multimédia Symbiose. On y voit l'écran et les plateformes sur lesquelles se tiennent les boutons que peuvent utiliser le ou les joueurs pour interagir avec le diapositif.](images/college_momo_mise_en_espace_mission_decollage.jpg)
 
-Avec Mission Décollage, Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi
+Avec Mission Décollage, Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi ont réussi, à mes yeux, à se distinguer de toutes les autres oeuvres présentées durant l'exposition Réseau vivant. La thématique de l'espace donne un charme incroyable à l'oeuvre présentée. L'ambiance sonore contribuait également à m'immerger dans l'univers du jeu. Mais ce qui fait vraiment la force de Mission décollage par rapport aux autres projets est sans doute la réceptivité des membres de l'équipe aux critiques reçues dans le formulaire d'évaluation rempli par les visiteurs. En effet, lorsque nous avions visité le grand studio une première fois pour tester Misssion Décollage, alors encore en phase de développement, deux reproches principales avaient été adressées aux créateurs du jeu. La première : Le jeu était BEAUCOUP trop dûr à compléter. La seconde : On devait mémoriser ce que chacune des touches du panneau de contrôle faisait puisqu'on nous expliquait ses fonctionnalités uniquement au début de notre session de jeu et il en y avait des dizaines. Dans la semaine qui s'est écoulée entre notre visite et l'exposition, l'équipe de Mission Décollage a collé des étiquettes près des boutons pour rendre la maîtrise des contrôles du jeu plus facile et a diminué le nombre d'événements qui se produisaient. De plus, ils ont refait une bonne partie de l'interface, laquelle était, initialement, plutôt médiocre.
+
+Pour plus d'informations sur cette oeuvre, voir fiche_EXPO_oeuvre_choisie.md où je la documente en détail.
+
+
+
+
+
 
 
 
