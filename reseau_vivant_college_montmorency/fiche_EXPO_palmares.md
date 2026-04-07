@@ -8,7 +8,8 @@ La première question que je me suis posé par rapport à ce dispositif, avant d
 
 ## 5 - Arbre en face (Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube)
 
-![Image du dispositif arbre en face complété. Un décor naturel sur un rideau de projection.](images/college_momo_arbre_en_face.jpg) (9)
+![Image du dispositif arbre en face complété. Un décor naturel sur un rideau de projection.](images/college_momo_arbre_en_face.jpg)
+(9)
 ![Schéma 2D de mise en espace du dispositif multimédia arbre en face. On y voit le rideau de projecteur, les deux hauts-parleurs et le détecteur de mouvement utilisés dans le cadre du dispositif.](images/college_momo_mise_en_espace_arbre_en_face.jpg) (3)
 
 Un point positif majeur que je peux citer par rapport à ce dispositif est les techniques qu'ils ont utilisé pour en faire la promotion. Ils ont repris certains codes des vidéos des créateurs de contenu de l'ère courante de YouTube (ex : Transition où une personne se téléporte instantanément d'un lieu à un autre) lui donnant une ambiance dynamique et légère, en harmonie avec l'oeuvre présentée : En effet, lorsque j'ai appuyé sur l'écran pour faire pousser un arbre et ai vu que les créateurs du dispositif avaient insérés les visages des personnes qui avaient testé le dispositif "Quand les yeux se croisent" je me suis mis à rigoler. Cependant, une fois cette particularité découverte, on se lasse très rapidement du dispositif multimédia. Il y a quelques secrets cachés sur la toile, mais à des endroits qui ne sont presque pas accessibles en raison de leur hauteur.
