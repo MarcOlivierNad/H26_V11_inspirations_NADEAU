@@ -8,6 +8,8 @@ RÉSEAU VIVANT
 
 ## Lieu de mise en exposition :
 
+475 Boulevard de l'avenir, Laval Quebec H7N 5H9 (Collège Montmorency, Grand studio, local C-1712)
+
 ![Selfie pris devant l'entrée 1 du Collège Montmorency.](images/college_momo_lieu_exposition.jpg)
 
 ## Type d'exposition :
