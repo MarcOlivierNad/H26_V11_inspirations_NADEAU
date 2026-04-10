@@ -68,7 +68,7 @@ Projecteurs (il y en a deux, un pour le jeu et un autre pour l'arrière-plan th�
 
 Console audio Behringer : Permettent de gérer les niveaux sonores des haut-parleurs.
 
-![Console audio Behringer sur un chariot. On retrouve plusieurs prises pour lier des composants à la console audio et des boutons permettant de contrôler le gain sur les différents dispositifs permettent de faire sortir le son.](images/college_momo_projecteurs.jpg)
+![Console audio Behringer sur un chariot. On retrouve plusieurs prises pour lier des composants à la console audio et des boutons permettant de contrôler le gain sur les différents dispositifs permettent de faire sortir le son.](images/college_momo_console_audio_behringer.jpg)
 
 Haut-parleurs : Transmettent le son du jeu. Il y en a deux, pour un son en stéréo.
 
