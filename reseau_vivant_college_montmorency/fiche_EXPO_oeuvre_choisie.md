@@ -72,7 +72,7 @@ Console audio Behringer : Permettent de gérer les niveaux sonores des haut-parl
 
 Haut-parleurs : Transmettent le son du jeu. Il y en a deux, pour un son en stéréo.
 
-!![Haut-parleurs noirs accrochés au mur.](images/college_momo_haut_parleurs.jpg)
+![Haut-parleurs noirs accrochés au mur.](images/college_momo_haut_parleurs.jpg)
 
 ## Éléments nécessaires à la mise en exposition :
 
