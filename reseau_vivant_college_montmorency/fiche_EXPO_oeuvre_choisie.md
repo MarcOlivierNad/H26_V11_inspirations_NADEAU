@@ -76,7 +76,9 @@ Haut-parleurs : Transmettent le son du jeu. Il y en a deux, pour un son en stér
 
 ## Éléments nécessaires à la mise en exposition :
 
-Panneau de contrôle
+Panneau de contrôle : Permet au joueur de contrôler la fusée dans laquelle il se trouve dans le jeu vidéo.
+
+![Photo du panneau de contrôle À CHANGER](images/college_momo_arduino.jpg)
 
 ## Expérience vécue :
 
