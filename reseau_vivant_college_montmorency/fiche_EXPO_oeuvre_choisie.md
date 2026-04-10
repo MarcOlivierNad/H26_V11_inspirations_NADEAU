@@ -64,10 +64,15 @@ Arduino : Capte les interactions des joueurs avec le panneau de contrôle et les
 
 Projecteurs (il y en a deux, un pour le jeu et un autre pour l'arrière-plan thématique) : Transmettent les images du jeu provenant de l'ordinateur.
 
-![Deux projecteurs.](images/college_momo_projecteurs.jpg)
+![Deux projecteurs, l'un en arrière de l'autre et légèrement décalé sur la gauche. Celui que l'on retrouve à l'arrière diffuse le fond thématique du dispositif (l'espace, les étoiles) alors que celui à l'avant s'occupe de diffuser les images du jeu.](images/college_momo_projecteurs.jpg)
 
 Console audio Behringer : Permettent de gérer les niveaux sonores des haut-parleurs.
-Haut-parleurs : Transmettent le son du jeu.
+
+![Console audio Behringer sur un chariot. On retrouve plusieurs prises pour lier des composants à la console audio et des boutons permettant de contrôler le gain sur les différents dispositifs permettent de faire sortir le son.](images/college_momo_projecteurs.jpg)
+
+Haut-parleurs : Transmettent le son du jeu. Il y en a deux, pour un son en stéréo.
+
+!![Haut-parleurs noirs accrochés au mur.](images/college_momo_haut.jpg)
 
 ## Éléments nécessaires à la mise en exposition :
 
