@@ -101,9 +101,9 @@ J'ai joué à ce jeu à deux reprises. La première fois, lorsque nous étions a
 
 ## Références :
 
-1 - Radhouane Kordan, 17 mars 2026
-2 - Photo prise par Marcus Andrew-Bastien, 17 mars 2026
-3 - Photo prise par Marc-Olivier Nadeau, 17 mars 2026
+1 - Radhouane Kordan, 17 mars 2026 <br>
+2 - Photo prise par Marcus Andrew-Bastien, 17 mars 2026 <br>
+3 - Photo prise par Marc-Olivier Nadeau, 17 mars 2026 <br>
 
 
 
