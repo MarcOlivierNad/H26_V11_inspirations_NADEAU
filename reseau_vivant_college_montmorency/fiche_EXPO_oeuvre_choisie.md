@@ -52,6 +52,8 @@ Scénographie
 
 Le joueur entre dans le Collège Montmorency par l'une des entrées du bâtiment et se dirige vers le grand studio du programme de Techniques d'intégration multimédia, c'est-à-dire le local C-1712. Il passe à travers un about, une toute petite pièce servant d'intermédiaire entre le studio et l'extérieur. Il, elle ou iel arrive alors dans la pièce principale, se dirige complètement au fond de celle-ci et voit les images du jeu projetées sur un cyclorama blanc.
 
+![Schéma de mise en espace du grand studio du collège Montmorency. Le visiteur entrant dans la pièce se dirige complètement au fond de celle-ci, où se trouve un cyclorama et, juste derrière, le panneau de contrôle du dispositif multimédia](images/college_momo_croquis.jpg)
+
 SCHÉMA À FAIRE.
 
 ## Composantes et techniques :
