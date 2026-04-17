@@ -54,8 +54,6 @@ Le joueur entre dans le Collège Montmorency par l'une des entrées du bâtiment
 
 ![Schéma de mise en espace du grand studio du collège Montmorency. Le visiteur entrant dans la pièce se dirige complètement au fond de celle-ci, où se trouve un cyclorama et, juste derrière, le panneau de contrôle du dispositif multimédia](images/college_momo_croquis.jpg)
 
-SCHÉMA À FAIRE.
-
 ## Composantes et techniques :
 
 Arduino : Capte les interactions des joueurs avec le panneau de contrôle et les transmet à l'ordinateur (1)
