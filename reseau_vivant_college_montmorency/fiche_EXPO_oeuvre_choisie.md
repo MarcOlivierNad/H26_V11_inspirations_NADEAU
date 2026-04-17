@@ -80,11 +80,14 @@ Haut-parleurs : Transmettent le son du jeu. Il y en a deux, pour un son en stér
 
 Panneau de contrôle : Permet au joueur de contrôler la fusée dans laquelle il se trouve dans le jeu vidéo.
 
-![Photo du panneau de contrôle À CHANGER](images/college_momo_arduino.jpg)
+![Photo du panneau de contrôle](images/college_momo_panneau_controle_cote_gauche.webp)
+![Photo du panneau de contrôle](images/college_momo_panneau_controle_cote_droit.webp)
 
 ## Expérience vécue :
 
-J'ai joué à ce jeu à deux reprises. La première fois, lorsque nous étions allés voir les projets des étudiants une semaine avant l'exposition. J'avais alors trouvé les mécaniques du jeu extrêmement complexes à maîtriser pour une simple raison : Sur le panneau de contrôle, rien ne nous indiquait visuellement ou appuyer pour contrôler les différentes fonctions du vaisseau. Il fallait avoir mémorisé les explications des créateurs du projet, ce qui n'était pas simple considérant que le panneau de contrôle comportait une quinzaine de boutons. À force, le jeu devenait laçant en raison de sa difficulté. Je trouvais néanmoins qu'il s'agissait d'un concept très intéressant, un jeu qui serait exceptionnel si ces quelques défauts étaient corrigés, ce que les créateurs du jeu ont fait. Sa difficulté a été diminuée et puisqu'il était alors possible de compléter le jeu et voir son résultat, cela m'incitait à rejouer encore et encore pour battre ma meilleure performance. La seconde fois, j'aurais joué potentiellement 2 heures si le temps me l'avait permis. L'équipe derrière la conception de ce projet a parfaitement compris la formule à suivre pour attirer l'attention d'un maximum de personnes lors de l'exposition : Créer un jeu vidéo avec des mécaniques et un visuel addictifs.
+J'ai joué à ce jeu à deux reprises. La première fois, lorsque nous étions allé voir les projets des étudiants une semaine avant l'exposition. J'avais alors trouvé les mécaniques du jeu extrêmement complexes à maîtriser pour une simple raison : Sur le panneau de contrôle, rien ne nous indiquait visuellement ou appuyer pour contrôler les différentes fonctions du vaisseau. Il fallait avoir mémorisé les explications des créateurs du projet, ce qui n'était pas simple considérant que le panneau de contrôle comportait une quinzaine de boutons. À force, le jeu devenait laçant en raison de sa difficulté. Je trouvais néanmoins qu'il s'agissait d'un concept très intéressant, un jeu qui serait exceptionnel si ces quelques défauts étaient corrigés, ce que les créateurs du jeu ont fait. Sa difficulté a été diminuée et puisqu'il était alors possible de compléter le jeu et voir son résultat, cela m'incitait à rejouer encore et encore pour battre ma meilleure performance. La seconde fois, j'aurais joué potentiellement 2 heures si le temps me l'avait permis. L'équipe derrière la conception de ce projet a parfaitement compris la formule à suivre pour attirer l'attention d'un maximum de personnes lors de l'exposition : Créer un jeu vidéo avec des mécaniques et un visuel addictifs.
+
+(Voir l'image de vue d'ensemble)
 
 ## Ce qui m'a plu :
 
