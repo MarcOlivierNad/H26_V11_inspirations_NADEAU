@@ -43,6 +43,8 @@ Support pédagogique
 
 ## Mise en espace : 
 
+Le visiteur rentre dans le bâtiment du Centre des sciences de Montréal et gravit les marches qui le mène au deuxième étage. Après avoir fait vérifier son billet par un membre du personnel, il se met à circuler dans un long couloir comportant plusieurs virages, plusieurs structures et cartes intégrées aux murs. Il/elle/iel tourne d'abord à gauche, puis ensuite en droite et aboutit dans la zone d'exposition. 
+
 ## Composantes et techniques : 
 
 ## Éléments nécessaires à la mise en exposition : 
@@ -56,3 +58,5 @@ Support pédagogique
 - Rendre plus clair la fonction des différents boutons sur l'écran tactile
 
 ## Références :
+
+1 - Marc
