@@ -47,6 +47,10 @@ Le visiteur rentre dans le bâtiment du Centre des sciences de Montréal et grav
 
 ## Composantes et techniques : 
 
+Ordinateur : Permet l'utilisation de l'application développée dans le cadre du dispositif multimédia.
+Écran tactile : Rend l'application fonctionnelle, contrôlable.
+Projecteur : Diffuse le contenu visuel 
+
 ## Éléments nécessaires à la mise en exposition : 
 
 ## Expérience vécue : 
