@@ -54,11 +54,12 @@ Support pédagogique
 
 Le visiteur ou la visitrice rentre dans le bâtiment du Centre des sciences de Montréal et gravit les marches qui le mène au deuxième étage. Après avoir fait vérifier son billet par un membre du personnel, il se met à circuler dans un long couloir comportant plusieurs virages, plusieurs structures et cartes intégrées aux murs. Il/elle/iel tourne d'abord à gauche, puis ensuite en droite et aboutit dans la zone d'exposition. 
 
-![Vue d'ensemble du dispositif multimédia. À l'écran, on voit l'écran tactile, ainsi que la projection sur le mur aux dimensions irrégulières.](images/centre_sciences_mtl_croquis.jpg)
+![Croquis de mise en espace de l'oeuvre dans le Centre des sciences de Montréal. Depuis l'entrée principale, elle se situe presque complètement au bout du deuxième étage.](images/centre_sciences_mtl_croquis.jpg)
 
 ## Composantes et techniques : 
 
-Ordinateur : Permet l'utilisation de l'application développée dans le cadre du dispositif multimédia. <br>
+Ordinateur : Permet l'utilisation de l'application développée dans le cadre du dispositif multimédia.
+![Ordinateur utilisé pour faire fonctionner le dispositif. Tour, PC fixe.](images/centre_sciences_mtl_croquis.jpg)
 <br>
 Écran tactile : Rend l'application fonctionnelle, contrôlable. <br>
 <br>
