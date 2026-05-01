@@ -109,6 +109,13 @@ Points négatifs :
 - Les objets situés à l'avant obstruent légèrement l'écran.
 
 
+## Références :
+
+1 : Marc-Olivier Nadeau, 20 février 2026 <br>
+2 : Marc-Olivier Nadeau, 4 mars 2026 <br>
+3 : Employée du Centre des mémoires montréalaises - Élizabeth Courteau
+
+
 
 
 
