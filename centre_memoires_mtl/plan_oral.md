@@ -2,9 +2,7 @@
 
 ## Introduction
 
-### Lieu de mise en exposition : 
-
-1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
+Mise en exposition à l'exposition au Centre des mémoires montréalaises : 1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
 
 ![Jeune homme se prenant en selfie devant l'entrée du Centre des mémoires montréalaises, à Montréal, Québec, Canada](./images/centre_memoires_mtl_lieu_exposition.jpg)
 (1)
@@ -28,7 +26,10 @@
    <br>
 ![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
 (1)
+   <br>
   
 - Visite effectuée le 20 février 2026
+
+  
 
 
