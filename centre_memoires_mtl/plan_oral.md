@@ -16,10 +16,10 @@ Mise en exposition à l'exposition au Centre des mémoires montréalaises : 1210
 (1)
 <br>
 - Conçu par la firme Directedbyvea
-   <br>
+   
    
 - Mis sur pied en 2024
-  <br>
+
  
 - Dans le cadre de l'exposition permanente « Montréal »
    <br>
