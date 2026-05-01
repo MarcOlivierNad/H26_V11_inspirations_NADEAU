@@ -61,7 +61,7 @@ Le visiteur ou la visitrice rentre dans le bâtiment du Centre des sciences de M
 
 Ordinateur : Permet l'utilisation de l'application développée dans le cadre du dispositif multimédia.
 <br>
-![Ordinateur utilisé pour faire fonctionner le dispositif. Tour, PC fixe.](images/centre_sciences_mtl_croquis.jpg)
+![Ordinateur utilisé pour faire fonctionner le dispositif. Tour, PC fixe.](images/centre_sciences_mtl_ordinateur.jpg)
 <br>
 Écran tactile : Rend l'application fonctionnelle, contrôlable.
 <br>
