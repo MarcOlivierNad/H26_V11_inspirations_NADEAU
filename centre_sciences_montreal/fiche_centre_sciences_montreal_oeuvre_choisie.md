@@ -70,6 +70,7 @@ Ordinateur : Permet l'utilisation de l'application développée dans le cadre du
 Projecteur : Diffuse le contenu visuel généré par la carte graphique ou le processeur de l'ordinateur. <br>
 ![Projecteur utilisé pour le dispositif.](images/centre_sciences_mtl_projecteur.jpg)
 <br>
+<br>
 Cartographie par projection : Technologie principale qu'utilise le dispositif multimédia. La cartographie par projection, ou, en anglais, le projection mapping, est une technique permettant de correctement projeter un contenu multimédia visuel quelconque (photo ou vidéo) sur une surface irrégulière. Le projecteur est lié à un ordinateur exécutant un des nombreux logiciels de cartographie par projection, tels que Resolume Arena, HeavyM, TouchDesigner ou MadMapper, ce dernier ayant été utilisé pour concevoir le dispositif multimédia. De façon générale, un aperçu visuel y est montré du point de vue du projecteur et il suffit de tracer des vecteurs autour de l'objet visé pour faire une projection épousant sa surface. Il y a cependant une contrainte technique dont il faut tenir compte : La couleur de l'objet doit être suffisamment claire afin qu'il puisse refléter la lumière produite. Il serait, par exemple très complexe d'exécuter la même technique sur une surface noire. (2)
 <br>
 
