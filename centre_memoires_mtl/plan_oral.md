@@ -1,1 +1,27 @@
+# Centre des mémoires montréalaises - Machine à voyager dans le temps
+
+## Introduction
+
+### Nom de l’exposition :
+
+Montréal
+
+![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
+(1)
+
+### Lieu de mise en exposition : 
+
+1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
+
+![Jeune homme se prenant en selfie devant l'entrée du Centre des mémoires montréalaises, à Montréal, Québec, Canada](./images/centre_memoires_mtl_lieu_exposition.jpg)
+(1)
+
+## Informations sur le dispositif :
+
+- « Une machine à voyager dans le temps » ("A time machine" en anglais)
+- Conçu par la firme Directedbyvea
+- Mis sur pied en 2024
+- Dans le cadre de l'exposition permanente « Montréal »
+- Visite effectuée le 20 février 2026
+
 
