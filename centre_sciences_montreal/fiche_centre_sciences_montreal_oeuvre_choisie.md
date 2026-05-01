@@ -4,14 +4,14 @@
 
 Explore 
 
-![Affiche portant le titre : Explore](images/centre_sciences_mtl_affiche_exposition.jpg)
-![Panneau de crédits Explore.](images/centre_sciences_mtl_panneau_credits.jpg)
+![Affiche portant le titre : Explore](images/centre_sciences_mtl_affiche_exposition.jpg) (1)
+![Panneau de crédits Explore.](images/centre_sciences_mtl_panneau_credits.jpg) (1)
 
 ## Lieu de mise en exposition :
 
 2 R. de la Commune O, Montréal, QC H2Y 4B2 - Centre des sciences de Montréal
 
-![Image de l'entrée principale du Centre des Sciences de Montréal. Le fleuve St-Laurent ainsi que le vieux port de Montréal sont visibles à l'arrière-plan et des escaliers mènent au bâtiment rouge et blanc presque entièrement fenêtré.](images/centre_sciences_mtl_lieu_exposition.jpg)
+![Image de l'entrée principale du Centre des Sciences de Montréal. Le fleuve St-Laurent ainsi que le vieux port de Montréal sont visibles à l'arrière-plan et des escaliers mènent au bâtiment rouge et blanc presque entièrement fenêtré.](images/centre_sciences_mtl_lieu_exposition.jpg) (4)
 
 ## Type d’exposition :
 
@@ -27,7 +27,7 @@ Titre français : La vidéo sous tous les angles <br>
 <br>
 Titre anglais : Video that plays all the angles 
 
-![Cartel du dispositif multimédia. On y explique la technique principale utilisée pour celui-ci, pour laquelle plus d'informations se trouvent plus bas dans la page. Le haut comporte un motif composée de petits picots, de cercles et de rectangles arrondis.](images/centre_sciences_mtl_cartel.jpg)
+![Cartel du dispositif multimédia. On y explique la technique principale utilisée pour celui-ci, pour laquelle plus d'informations se trouvent plus bas dans la page. Le haut comporte un motif composée de petits picots, de cercles et de rectangles arrondis.](images/centre_sciences_mtl_cartel.jpg) (1)
 
 ## Nom de l’artiste ou de la firme :
 
@@ -68,9 +68,10 @@ Ordinateur : Permet l'utilisation de l'application développée dans le cadre du
 ![Écran tactile du dispositif multimédia. Fond bleu semi-transparent laissant entrevoir un paysage tropical. À gauche se trouvent les boutons pour l'étalonnage (qui ne fonctionnent pas), à droite, pour les effets visuels.](images/centre_sciences_mtl_ecran_tactile.jpg)
 <br>
 Projecteur : Diffuse le contenu visuel généré par la carte graphique ou le processeur de l'ordinateur. <br>
-![Écran tactile du dispositif multimédia. Fond bleu semi-transparent laissant entrevoir un paysage tropical. À gauche se trouvent les boutons pour l'étalonnage (qui ne fonctionnent pas), à droite, pour les effets visuels.](images/centre_sciences_mtl_ecran_tactile.jpg)
+![Projecteur utilisé pour le dispositif.](images/centre_sciences_mtl_projecteur.jpg)
 <br>
-Cartographie par projection : Technologie principale qu'utilise le dispositif multimédia. La cartographie par projection, ou, en anglais, le projection mapping, est une technique permettant de correctement projeter un contenu multimédia visuel quelconque (photo ou vidéo) sur une surface irrégulière. Le projecteur est lié à un ordinateur exécutant un des nombreux logiciels de cartographie par projection, tels que Resolume Arena, HeavyM, TouchDesigner ou MadMapper, ce dernier ayant été utilisé pour concevoir le dispositif multimédia. De façon générale, un aperçu visuel y est montré du point de vue du projecteur et il suffit de tracer des vecteurs autour de l'objet visé pour faire une projection épousant sa surface. Il y a cependant une contrainte technique dont il faut tenir compte : La couleur de l'objet doit être suffisamment claire afin qu'il puisse refléter la lumière produite. Il serait, par exemple très complexe d'exécuter la même technique sur une surface noire. (2) <br>
+Cartographie par projection : Technologie principale qu'utilise le dispositif multimédia. La cartographie par projection, ou, en anglais, le projection mapping, est une technique permettant de correctement projeter un contenu multimédia visuel quelconque (photo ou vidéo) sur une surface irrégulière. Le projecteur est lié à un ordinateur exécutant un des nombreux logiciels de cartographie par projection, tels que Resolume Arena, HeavyM, TouchDesigner ou MadMapper, ce dernier ayant été utilisé pour concevoir le dispositif multimédia. De façon générale, un aperçu visuel y est montré du point de vue du projecteur et il suffit de tracer des vecteurs autour de l'objet visé pour faire une projection épousant sa surface. Il y a cependant une contrainte technique dont il faut tenir compte : La couleur de l'objet doit être suffisamment claire afin qu'il puisse refléter la lumière produite. Il serait, par exemple très complexe d'exécuter la même technique sur une surface noire. (2)
+<br>
 
 ## Éléments nécessaires à la mise en exposition : 
 
@@ -96,4 +97,4 @@ Je suis resté accroché à ce dispositif multimédia lorsque je me suis rendu c
 1 - Marc-Olivier Nadeau, 1er avril 2026 <br>
 2 - Éric Donais, technicien en multimédia travaillant au Centre des sciences de Montréal, 1er avril 2026 <br>
 3 - Tinkernut, 24 mai 2014, https://www.youtube.com/watch?v=skU3T8bgEIM <br>
-4 - Site web du Centre des sciences de Montréal, mai 2025
+4 - Site web du Centre des sciences de Montréal, mai 2025, https://www.centredessciencesdemontreal.com/information-visiteurs
