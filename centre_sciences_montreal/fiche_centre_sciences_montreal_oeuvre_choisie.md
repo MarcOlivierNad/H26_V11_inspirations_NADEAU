@@ -45,7 +45,9 @@ Le visiteur arrive devant un écran tactile où il/elle/iel contrôle une pseudo
 
 ## Type d’installation :
 
-Interactive 
+Interactive
+
+[Vue d'ensemble vidéo.](https://www.youtube.com/watch?v=wX2TTpO2k54)
 
 ## Fonction du dispositif multimédia :
 
