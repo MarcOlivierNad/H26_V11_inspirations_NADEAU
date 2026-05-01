@@ -25,6 +25,7 @@ Montréal
 (1)
 <br>
 - Conçu par la firme Directedbyvea
+   <br>
 - Mis sur pied en 2024
 - Dans le cadre de l'exposition permanente « Montréal »
 - Visite effectuée le 20 février 2026
