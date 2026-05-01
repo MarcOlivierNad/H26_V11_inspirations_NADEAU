@@ -40,7 +40,7 @@ GSM Project
 
 Le visiteur arrive devant un écran tactile où il/elle/iel contrôle une pseudo-application de montage vidéo. Celui-ci peut glisser des fichiers vidéos sur une interface et réorganiser leur ordre. Il peut également choisir entre plusieurs répertoires de médias différents, divers effets applicables à chacun des médias, tels que le tourbillon ou l'effet miroir fragmenté. Une fois son montage terminé, un bouton lui permet de lancer la projection de la vidéo réalisée sur le mur situé juste devant lui. Cette projection utilise le mapping, une technique qui adapte des projections à la surface de leur récepteur, qu'il s'agisse d'un mur ou d'un bâtiment.
 
-![Vue d'ensemble du dispositif multimédia.](images/centre_sciences_mtl_vue_ensemble.jpg)
+![Vue d'ensemble du dispositif multimédia. À l'écran, on voit l'écran tactile, ainsi que la projection sur le mur aux dimensions irrégulières.](images/centre_sciences_mtl_vue_ensemble.jpg)
 
 ## Type d’installation :
 
@@ -53,6 +53,8 @@ Support pédagogique
 ## Mise en espace : 
 
 Le visiteur ou la visitrice rentre dans le bâtiment du Centre des sciences de Montréal et gravit les marches qui le mène au deuxième étage. Après avoir fait vérifier son billet par un membre du personnel, il se met à circuler dans un long couloir comportant plusieurs virages, plusieurs structures et cartes intégrées aux murs. Il/elle/iel tourne d'abord à gauche, puis ensuite en droite et aboutit dans la zone d'exposition. 
+
+![Vue d'ensemble du dispositif multimédia. À l'écran, on voit l'écran tactile, ainsi que la projection sur le mur aux dimensions irrégulières.](images/centre_sciences_mtl_croquis.jpg)
 
 ## Composantes et techniques : 
 
