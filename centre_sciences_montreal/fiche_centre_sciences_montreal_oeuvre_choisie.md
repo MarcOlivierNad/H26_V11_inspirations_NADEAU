@@ -10,7 +10,7 @@ Explore
 
 2 R. de la Commune O, Montréal, QC H2Y 4B2 - Centre des sciences de Montréal
 
-!![Affiche portant le titre](images/centre_sciences_mtl_lieu_exposition.jpg)
+![Image de l'entrée principale du Centre des Sciences de Montréal. Le fleuve St-Laurent ainsi que le vieux port de Montréal sont visibles à l'arrière-plan et des escaliers mènent au bâtiment rouge et blanc presque entièrement fenêtré.](images/centre_sciences_mtl_lieu_exposition.jpg)
 
 ## Type d’exposition :
 
@@ -25,6 +25,8 @@ Mercredi 1er avril 2026
 Titre français : La vidéo sous tous les angles <br>
 <br>
 Titre anglais : Video that plays all the angles 
+
+
 
 ## Nom de l’artiste ou de la firme :
 
@@ -81,7 +83,7 @@ Je suis resté accroché à ce dispositif multimédia lorsque je me suis rendu c
 
 ## Références :
 
-1 - Marc-Olivier Nadeau, 1er avril 2026
-2 - Éric Donais, technicien en multimédia travaillant au Centre des sciences de Montréal, 1er avril 2026
-3 - Tinkernut, 24 mai 2014, https://www.youtube.com/watch?v=skU3T8bgEIM
+1 - Marc-Olivier Nadeau, 1er avril 2026 <br>
+2 - Éric Donais, technicien en multimédia travaillant au Centre des sciences de Montréal, 1er avril 2026 <br>
+3 - Tinkernut, 24 mai 2014, https://www.youtube.com/watch?v=skU3T8bgEIM <br>
 4 - Site web du Centre des sciences de Montréal, mai 2025
