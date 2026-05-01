@@ -4,7 +4,7 @@
 
 Explore 
 
-![Affiche portant le titre](image/centre_sciences_mtl_affiche_exposition.jpg)
+![Affiche portant le titre](images/centre_sciences_mtl_affiche_exposition.jpg)
 
 ## Lieu de mise en exposition :
 
