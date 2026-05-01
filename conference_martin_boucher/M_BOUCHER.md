@@ -6,4 +6,6 @@ Lors du cours d'œuvres et dispositifs multimédias en exposition du 24 avril 20
 
 ## Développement
 
-Le Musée de l'ingéniosité J.Armand-Bombardier a été créé dans le but d'honorer la mémoire de Joseph Armand-Bombardier, pionnier de la mécanique automobile moderne. Par conséquent, la plupart des œuvres sont thématisées autour des innovations technologiques liées aux transports (métro, avion, voiture, etc.).
+![Affiche portant le titre](images/musee-bombardier-com-expositions-histoires-de-passions.jpg)
+
+Le Musée de l'ingéniosité J.Armand-Bombardier a été créé dans le but d'honorer la mémoire de Joseph Armand-Bombardier, pionnier de la mécanique automobile moderne. Par conséquent, la plupart des œuvres sont thématisées autour des innovations technologiques liées aux transports (métro, avion, voiture, etc.). Celle qu'on peut voir en haut du paragraphe, par exemple, est un simulateur d'avion conçu dans le cadre de l'exposition « Histoire de passions ». 
