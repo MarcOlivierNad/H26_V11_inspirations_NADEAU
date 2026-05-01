@@ -10,7 +10,7 @@ Mise en exposition à l'exposition au Centre des mémoires montréalaises : 1210
 ## Informations sur le dispositif :
 
 - « Une machine à voyager dans le temps » ("A time machine" en anglais)
-- 
+  
  ![Cartel rouge sur lequel est marqué le nom de l'oeuvre : Une machine à voyager dans le temps. Des boutons permettant de lancer les diverses vidéos utilisées par le dispositif sont organisés par sections, c'est-à-dire, en fonction de la vidéo souhaitée. Dans chaque cas deux options de langues sont proposées : Français ou Anglais.](./images/centre_memoires_mtl_cartel_machine_voyage_temps.jpg)
 (1)
 
