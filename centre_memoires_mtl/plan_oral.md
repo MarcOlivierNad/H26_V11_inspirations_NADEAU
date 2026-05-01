@@ -2,13 +2,6 @@
 
 ## Introduction
 
-### Nom de l’exposition :
-
-Montréal
-
-![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
-(1)
-
 ### Lieu de mise en exposition : 
 
 1210 Boul. Saint-Laurent, Montréal, QC H2X 2S5
@@ -26,8 +19,16 @@ Montréal
 <br>
 - Conçu par la firme Directedbyvea
    <br>
+   
 - Mis sur pied en 2024
+  <br>
+ 
 - Dans le cadre de l'exposition permanente « Montréal »
+   <br>
+   <br>
+![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
+(1)
+  
 - Visite effectuée le 20 février 2026
 
 
