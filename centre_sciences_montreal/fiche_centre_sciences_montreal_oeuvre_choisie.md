@@ -10,6 +10,8 @@ Explore
 
 2 R. de la Commune O, Montréal, QC H2Y 4B2 - Centre des sciences de Montréal
 
+!![Affiche portant le titre](images/centre_sciences_mtl_lieu_exposition.jpg)
+
 ## Type d’exposition :
 
 Permanente 
@@ -82,3 +84,4 @@ Je suis resté accroché à ce dispositif multimédia lorsque je me suis rendu c
 1 - Marc-Olivier Nadeau, 1er avril 2026
 2 - Éric Donais, technicien en multimédia travaillant au Centre des sciences de Montréal, 1er avril 2026
 3 - Tinkernut, 24 mai 2014, https://www.youtube.com/watch?v=skU3T8bgEIM
+4 - Site web du Centre des sciences de Montréal, mai 2025
