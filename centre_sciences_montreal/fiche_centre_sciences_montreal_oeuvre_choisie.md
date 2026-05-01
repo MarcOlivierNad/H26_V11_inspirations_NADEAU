@@ -4,6 +4,8 @@
 
 Explore 
 
+![Affiche portant le titre](image/centre_sciences_mtl_affiche_exposition.jpg)
+
 ## Lieu de mise en exposition :
 
 2 R. de la Commune O, Montréal, QC H2Y 4B2 - Centre des sciences de Montréal
