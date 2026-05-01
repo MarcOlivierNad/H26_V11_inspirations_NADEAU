@@ -20,6 +20,7 @@ Mise en exposition à l'exposition au Centre des mémoires montréalaises : 1210
    
 ![Affiche portant le nom de l'exposition : Montréal](./images/centre_memoires_mtl_affiche_exposition.jpg)
 (1)
+
 - Visite effectuée le 20 février 2026
 
   
