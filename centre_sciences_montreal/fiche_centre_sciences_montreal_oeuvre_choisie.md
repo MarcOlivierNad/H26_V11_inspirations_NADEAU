@@ -26,7 +26,7 @@ Titre français : La vidéo sous tous les angles <br>
 <br>
 Titre anglais : Video that plays all the angles 
 
-
+![Cartel du dispositif multimédia. On y explique la technique principale utilisée pour celui-ci, pour laquelle plus d'informations se trouvent plus bas dans la page. Le haut comporte un motif composée de petits picots, de cercles et de rectangles arrondis.](images/centre_sciences_mtl_cartel.jpg)
 
 ## Nom de l’artiste ou de la firme :
 
@@ -39,6 +39,8 @@ GSM Project
 ## Description de l’œuvre ou du dispositif : 
 
 Le visiteur arrive devant un écran tactile où il/elle/iel contrôle une pseudo-application de montage vidéo. Celui-ci peut glisser des fichiers vidéos sur une interface et réorganiser leur ordre. Il peut également choisir entre plusieurs répertoires de médias différents, divers effets applicables à chacun des médias, tels que le tourbillon ou l'effet miroir fragmenté. Une fois son montage terminé, un bouton lui permet de lancer la projection de la vidéo réalisée sur le mur situé juste devant lui. Cette projection utilise le mapping, une technique qui adapte des projections à la surface de leur récepteur, qu'il s'agisse d'un mur ou d'un bâtiment.
+
+![Vue d'ensemble du dispositif multimédia.](images/centre_sciences_mtl_vue_ensemble.jpg)
 
 ## Type d’installation :
 
