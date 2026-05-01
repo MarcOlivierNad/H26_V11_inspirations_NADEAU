@@ -61,11 +61,15 @@ Le visiteur ou la visitrice rentre dans le bâtiment du Centre des sciences de M
 
 Ordinateur : Permet l'utilisation de l'application développée dans le cadre du dispositif multimédia.
 <br>
+<br>
 ![Ordinateur utilisé pour faire fonctionner le dispositif. Tour, PC fixe.](images/centre_sciences_mtl_ordinateur.jpg)
+<br>
 <br>
 Écran tactile : Rend l'application fonctionnelle, contrôlable.
 <br>
+<br>
 ![Écran tactile du dispositif multimédia. Fond bleu semi-transparent laissant entrevoir un paysage tropical. À gauche se trouvent les boutons pour l'étalonnage (qui ne fonctionnent pas), à droite, pour les effets visuels.](images/centre_sciences_mtl_ecran_tactile.jpg)
+<br>
 <br>
 Projecteur : Diffuse le contenu visuel généré par la carte graphique ou le processeur de l'ordinateur. <br>
 ![Projecteur utilisé pour le dispositif.](images/centre_sciences_mtl_projecteur.jpg)
