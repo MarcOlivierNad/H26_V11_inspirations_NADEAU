@@ -93,6 +93,8 @@ Mur : Surface sur laquelle le contenu visuel de l'application est diffusée. On 
 
 Je suis resté accroché à ce dispositif multimédia lorsque je me suis rendu compte de quoi il s'agissait. Tel que décrit dans mon portrait réalisé en début de session, le montage vidéo est mon intérêt multimédia principal. Hors caméra, l'oeuvre m'a bien fait rire alors que j'essayais de créer une composition avec des effets aussi bizarres et impertinents que possible. J'ai cependant été déçu de me rendre compte que la section de gauche ne fonctionnait pas. Ensuite, après avoir regardé le cartel et curieux d'en apprendre davantage sur la cartographie par projection, j'ai posé tellement de questions qu'ils ont décidé de faire venir un technicien en multimédia présent sur les lieux pour m'expliquer en quoi cette technologie consiste. Un aspect de l'oeuvre que j'ai particulièrement apprécie est le fait que, quand on y pense, le titre du dispositif prend un double sens : On joue la vidéo sous tous ses angles parce qu'on la projette fidèlement sur une surface malgré son irrégularité, mais on le fait aussi dans le sens où on manipule une vidéo à notre guise. On voit également donc la vidéo sous tous ses angles dans ce sens.
 
+[Expérience vécue.](https://www.youtube.com/watch?v=HB9LQSrbzkc)
+
 ## Ce qui m’a plu :
 
 - Design graphique de l'application
